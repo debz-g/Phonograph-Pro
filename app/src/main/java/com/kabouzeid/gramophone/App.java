@@ -77,7 +77,11 @@ public class App extends Application {
     }
 
     public static boolean isProVersion() {
-        return BuildConfig.DEBUG || app.billingProcessor.isPurchased(PRO_VERSION_PRODUCT_ID);
+
+        //return BuildConfig.DEBUG || app.billingProcessor.isPurchased(PRO_VERSION_PRODUCT_ID)
+
+        //for pro version
+        return true;
     }
 
     public static App getInstance() {
