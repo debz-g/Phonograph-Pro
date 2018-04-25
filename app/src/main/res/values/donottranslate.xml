@@ -3,7 +3,8 @@
     <string name="app_name" translatable="false">Phonograph</string>
 
     <string name="gokul_swami" translatable="false">Gokul Swaminathan</string>
-    <string name="home" translatable="false">California, U</string>
+    <string name="the_people" translatable="false">The People</string>
+    <string name="home" translatable="false">Earth</string>
     <string name="karim_abou_zeid" translatable="false">Karim Abou Zeid</string>
     <string name="aidan_follestad" translatable="false">Aidan Follestad</string>
     <string name="maarten_corpel" translatable="false">Maarten Corpel</string>
