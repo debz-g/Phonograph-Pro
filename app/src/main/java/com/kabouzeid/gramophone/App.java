@@ -63,12 +63,12 @@ public class App extends Application {
 
     // changed so the method always returns pro
     public static boolean isProVersion() {
+    return true;
 
-        //---- This line is the original ----//
-        //return BuildConfig.DEBUG || app.billingProcessor.isPurchased(PRO_VERSION_PRODUCT_ID)
 
-        //---- Always return true for pro version ----//
-        return true;
+
+
+
     }
 
     public static App getInstance() {
