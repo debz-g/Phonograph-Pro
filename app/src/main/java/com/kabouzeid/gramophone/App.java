@@ -63,7 +63,7 @@ public class App extends Application {
 
     // changed so the method always returns pro
     public static boolean isProVersion() {
-    return true;
+    return false;
 
 
 
